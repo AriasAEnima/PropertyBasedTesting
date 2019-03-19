@@ -1,0 +1,7 @@
+edu\eci\cvds\pbt\registry\Gender.class
+edu\eci\cvds\pbt\App.class
+edu\eci\cvds\pbt\registry\RegisterResult.class
+edu\eci\cvds\pbt\triangle\Classifier.class
+edu\eci\cvds\pbt\registry\Person.class
+edu\eci\cvds\pbt\registry\Registry.class
+edu\eci\cvds\pbt\triangle\TriangleType.class
