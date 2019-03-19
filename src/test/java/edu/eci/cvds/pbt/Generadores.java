@@ -41,5 +41,12 @@ public class Generadores {
         return genListOfOrders().map(od->new Order(od));    
     }
     
+	public static Gen<String> ejemSource(){
+		return source->{
+			String name=genDishesNames().generate(source);
+			return new String(name);
+		}
+		
+	}
 }
 
